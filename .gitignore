@@ -1,0 +1,12 @@
+#ignore all json files
+*.json
+```
+#ignore all .csv and .gz files
+*.csv
+*.gz
+```
+*.exe
+```
+#Ignore postgress data folder
+\week1\docker_sql\ny_taxi_postgres_data
+```
