@@ -7,6 +7,9 @@
 ```
 *.exe
 ```
+#ignore all mp4 files
+*.mp4
+```
 #Ignore postgress data folder
 \week1\docker_sql\ny_taxi_postgres_data
 ```

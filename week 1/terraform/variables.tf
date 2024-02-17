@@ -35,5 +35,4 @@ variable "gcs_bucket_name" {
 variable "gcs_storage_bucket_class" {
   description = "GCS bucket class"
   default     = "standard"
-
 }
